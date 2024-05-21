@@ -36,6 +36,9 @@ For fila = 3 To filamax
     
 Next fila
 
+'posicionar en celda codigo
+Hoja1.Cells(2, 3).Select
+
 
 End With
 
